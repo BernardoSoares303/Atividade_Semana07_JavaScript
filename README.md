@@ -2,4 +2,6 @@
 
 ## Coloquei a atividade nesse repositório, já que não foi informado nenhum no enunciado da atividade.
 
-### ![Print do Resultado](img/image.png)
+### Resultado
+
+![Print do Resultado](img/image.png)
