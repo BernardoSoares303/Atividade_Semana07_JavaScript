@@ -4,4 +4,4 @@
 
 ### Resultado
 
-![Print do Resultado](img/image.png)
+![Print do Resultado](Img/image.png)
